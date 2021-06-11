@@ -1,3 +1,3 @@
-Npm install
-nmp start
-npm test
+# Npm install
+# npm start
+# npm test
